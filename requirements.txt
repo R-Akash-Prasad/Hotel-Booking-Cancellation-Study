@@ -5,6 +5,4 @@ seaborn
 scikit-learn
 streamlit
 plotly
-jupyter
-ipykernel
 xgboost
